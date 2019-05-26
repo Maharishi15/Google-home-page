@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link
+        href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAFvPsA8fXwAPSFQgA1Q+oAU6g0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERERERERERERERERERERERERERERERRERBEREREUREREIRERERRBERIhERERAEERESIREREAERIiIhEREQAREiIiERERADERERERERETMRERERERERMzMzMRERERERMzMxEREREREREREREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+        rel="icon" type="image/x-icon" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Google</title>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="google.css">
+
+    <!--[if IE]
+     <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+       <![endif]-->
+
+</head>
+
+<body>
+
+    <nav id="header">
+        <ul>
+            <small>
+                <li><a href="">Gmail</a></li>
+                <li><a href="">Images</a></li>
+                <li>
+                    <div class="fa fa-th"></div>
+                </li>
+                <li><img class="profile_img" src="maharishi.jpg" ></li>
+            </small>
+        </ul>
+    </nav>
+
+    <div id="box-1">
+        <h1 id="logo">Google</h1>
+
+        <form action="">
+            <input type="text">
+            <input type="submit" value="Google Search">
+            <input type="submit" value="I'm Feeling Lucky">
+            <img class="image" src="Googlemic.png" alt="mic" width="14px" height="20px">
+
+            <p><small>Google offered in:
+                    <a href="" class="lang"> हिंदी </a>
+                    <a href="" class="lang"> বাংলা </a>
+                    <a href="" class="lang">తెలుగు</a>
+                    <a href="" class="lang">मराठी</a>
+                    <a href="" class="lang">தமிழ்</a>
+                    <a href="" class="lang">ગુજરાતી</a>
+                    <a href="" class="lang">ಕನ್ನಡ</a>
+                    <a href="" class="lang">മലയാളം</a>
+                    <a href="" class="lang">ਪੰਜਾਬੀ</a>
+                </small></p>
+
+        </form>
+    </div>
+
+    <div id="footer">
+        <footer>
+            <nav>
+                <span class="country">India</span>
+               <div class="bottom-site-links">
+                <ul class="left-site-links"> <!-- Bottom Left Links -->
+                    <li>
+                        <a href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com/services/?fg=1">Business</a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com/intl/en/about.html?fg=1">About</a>
+                    </li>
+                </ul>
+
+                <ul class="right-site-links"> <!-- Bottom Right Links -->
+                    <li>
+                        <a href="https://www.google.com/intl/en/policies/privacy/?fg=1">Privacy</a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com/intl/en/policies/terms/?fg=1">Terms</a>
+                    </li>
+                    <li>
+                        <a href="https://www.google.com/preferences?hl=en">Settings</a>
+                    </li>
+                </ul>
+               </div>
+               
+            </nav>
+        </footer>
+    </div>
+</body>
+
+</html>
