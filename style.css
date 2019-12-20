@@ -21,7 +21,7 @@ body {
 h1#logo {
     width: 272px;
     height: 92px;
-    background: url('googlelogo.jpg.png') top left no-repeat;
+    background: url('images/googlelogo.jpg.png') top left no-repeat;
     background-size: 100%;
     text-indent: -9999px;
     margin: 0 auto;
